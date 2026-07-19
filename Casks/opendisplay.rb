@@ -1,6 +1,6 @@
 cask "opendisplay" do
-  version "0.4.1"
-  sha256 "f08800521d7fdddab481422c15bf2ee03a385bd740f08c276b978f10aebbeb42"
+  version "0.5.0"
+  sha256 "95f5fc0d86e2c9ad88387adda4cb3f8712eb19d0890c0a844572a6fe5401749c"
 
   url "https://github.com/aquitaine/OpenDisplay/releases/download/v#{version}/OpenDisplay.zip"
   name "OpenDisplay"
